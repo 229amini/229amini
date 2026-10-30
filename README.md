@@ -24,10 +24,6 @@ Windows terminals can't lay out Persian. Mixed Persian and English lines come ou
 - Conversations side by side, with full-text search across all of them
 - Python standard library only, bound to localhost, MIT licensed
 
-## Also here
-
-- [obs-mobile-director](https://github.com/229amini/obs-mobile-director): an Android app that turns a phone's front and back cameras into one picture-in-picture feed for OBS over SRT. Kotlin.
-
 ## Tools I work with
 
 Python · JavaScript · TypeScript · Kotlin · Dart · PowerShell · Claude Code

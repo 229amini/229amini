@@ -1,10 +1,10 @@
 # Mostafa Amini
 
-I use AI to build the tools I've needed for years, and I publish them so anyone can use them. Claude Persian is the first one out.
+I use AI to build the tools I've needed for years, and I publish them so anyone can use them. Most of them stay private until they're ready. I released Claude Persian early because Persian-speaking developers needed it now.
 
 <div dir="rtl">
 
-ابزارهایی را که سال‌ها لازمشان داشتم با هوش مصنوعی می‌سازم و رایگان در اختیار همه می‌گذارم. کلاد فارسی اولینشان است.
+ابزارهایی را که سال‌ها لازمشان داشتم با هوش مصنوعی می‌سازم و رایگان در اختیار همه می‌گذارم. بیشترشان تا آماده شوند خصوصی می‌مانند. کلاد فارسی را زودتر منتشر کردم، چون برنامه‌نویس‌های فارسی‌زبان همین حالا لازمش داشتند.
 
 </div>
 

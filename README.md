@@ -1,10 +1,10 @@
 # Mostafa Amini
 
-I build tools for people who code with AI agents, and for the Persian-speaking developers among them.
+I use AI to build the tools I've needed for years, and I publish them so anyone can use them. Claude Persian is the first one out.
 
 <div dir="rtl">
 
-ابزار می‌سازم برای کسانی که با Claude Code و عامل‌های کدنویسی کار می‌کنند، به‌خصوص برنامه‌نویس‌های فارسی‌زبان.
+ابزارهایی را که سال‌ها لازمشان داشتم با هوش مصنوعی می‌سازم و رایگان در اختیار همه می‌گذارم. کلاد فارسی اولینشان است.
 
 </div>
 

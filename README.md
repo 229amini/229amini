@@ -34,4 +34,4 @@ Python · JavaScript · TypeScript · Kotlin · Dart · PowerShell · Claude Cod
 
 ## Elsewhere
 
-[X / Twitter](https://x.com/229Amini) · [Virgool](https://virgool.io/@mostafa72mag)
+[LinkedIn](https://www.linkedin.com/in/229amini/) · [X / Twitter](https://x.com/229Amini) · [Virgool](https://virgool.io/@mostafa72mag)
